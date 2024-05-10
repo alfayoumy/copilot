@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "235510746378",
+    "project_id": "car-copilot",
+    "storage_bucket": "car-copilot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235510746378:android:ee9310dd96658c48ea7ef3",
+        "android_client_info": {
+          "package_name": "com.carcopilot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235510746378-1mm2nhglkcj4bgksq740v1b225kippg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBAs9RJGfws_hQ0dCCuVhrDhmM8Tdk1d0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235510746378-1mm2nhglkcj4bgksq740v1b225kippg2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
